@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5662439639686911396
+      m_GuidHigh: 5195014668165369011
+    m_SerializedTextureGuid:
+      m_GuidLow: 532724769883017651
+      m_GuidHigh: 9459223028791093323
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: fonecar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4653111374051119631
+      m_GuidHigh: 12977965008767648432
+    m_SerializedTextureGuid:
+      m_GuidLow: 406682553216579057
+      m_GuidHigh: 161589940908601657
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: jeepcar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5327795678425602184
+      m_GuidHigh: 17612044296602787977
+    m_SerializedTextureGuid:
+      m_GuidLow: 15408129064617835228
+      m_GuidHigh: 17671422146942479434
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: musclecar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5710452432696321754
+      m_GuidHigh: 5088953309393349254
+    m_SerializedTextureGuid:
+      m_GuidLow: 2987171276512554676
+      m_GuidHigh: 2881349585831249418
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: sportcar
+    m_Texture: {fileID: 0}
